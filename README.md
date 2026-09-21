@@ -36,11 +36,11 @@ Built through the collaboration of:
 We do not have a clear image of the finished robot, but these photos show two stages in its development:
 
 ### Custom Battery Assembly
-![Custom Battery](RoboTec_2025/images/custom_battery.jpeg)
+![Custom Battery](images/custom_battery.jpeg)
 *Our custom 12V rechargeable battery built by connecting three 3.7V lithium-ion batteries in series using spot welding*
 
 ### Rough Component Assembly
-![Component Assembly](RoboTec_2025/images/rough_component_outline.jpeg)
+![Component Assembly](images/rough_component_outline.jpeg)
 *Early stage assembly showing sensor placement and component layout*
 
 ## Project Structure
